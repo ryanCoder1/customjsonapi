@@ -1,0 +1,130 @@
+{
+  "posts":  [
+    {
+       "id": 1,
+       "class":  "Men and Women",
+        "days": [
+         [
+          ["Monday-Wednesday-Friday"],
+          ["5pm-6pm"]
+        ],
+       [
+          ["Tuesday-Thursday"],
+          ["10am-11am"]
+        ],
+         [
+          ["Saturday"],
+          ["12pm-1pm"]
+        ]
+      ]
+    },
+    {
+    "id": 2,
+    "class":  "elderly",
+    "days": [
+       [
+        ["Monday-Wednesday-Friday"],
+        ["3pm-4pm"]
+      ],
+     [
+        ["Tuesday-Thursday"],
+        ["11am-12pm"]
+      ],
+       [
+        ["Saturday"],
+        ["9am-10am"]
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "class":  "pregnant",
+    "days": [
+       [
+        ["Monday-Wednesday-Friday"],
+        ["5pm-6pm"]
+      ],
+     [
+        ["Tuesday-Thursday"],
+        ["10am-11am"]
+      ],
+       [
+        ["Saturday"],
+        ["12pm-1pm"]
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "class":  "Adults and kids",
+    "days": [
+       [
+        ["Monday-Wednesday-Friday"],
+        ["1pm-2pm"]
+      ],
+     [
+        ["Tuesday-Thursday"],
+        ["2pm-3pm"]
+      ],
+       [
+        ["Saturday"],
+        ["10am-11am"]
+      ]
+    ]
+  },
+  {
+     "id": 5,
+     "class":  "outside",
+     "days": [
+       [
+        ["Monday-Wednesday-Friday"],
+        ["5pm-6pm"]
+      ],
+     [
+        ["Tuesday-Thursday"],
+        ["10am-11am"]
+      ],
+       [
+        ["Saturday"],
+        ["12pm-1pm"]
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "class":  "private",
+    "days": [
+       [
+        ["Monday-Wednesday"],
+        ["5pm-6pm"]
+      ],
+     [
+        ["Tuesday-Wednesday-Thursday"],
+        ["9am-10am"]
+      ],
+       [
+        ["Saturday"],
+        ["3pm-4pm"]
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "class":  "travel for groups",
+    "days": [
+       [
+        ["Monday-Wednesday-Friday"],
+        ["5pm-6pm"]
+      ],
+     [
+        ["Tuesday-Thursday"],
+        ["10am-11am"]
+      ],
+       [
+        ["Saturday"],
+        ["12pm-1pm"]
+      ]
+    ]
+  }
+]
+};

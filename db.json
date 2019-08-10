@@ -3,6 +3,32 @@
     {
        "id": 1,
        "class":  "Men and Women",
+      "size":  [
+       [
+        ["Monday"],
+        [20]
+      ],
+       [
+        ["Wednesday"],
+        [18]
+      ],
+       [
+        ["Friday"],
+        [22]
+      ],
+     [
+        ["Tuesday"],
+        [13]
+      ],
+       [
+        ["Thursday"],
+        [20]
+      ],
+       [
+        ["Saturday"],
+        [30]
+      ]
+    ],
         "days": [
          [
           ["Monday-Wednesday-Friday"],
@@ -21,6 +47,32 @@
     {
     "id": 2,
     "class":  "elderly",
+    "size":  [
+       [
+        ["Monday"],
+        [1]
+      ],
+       [
+        ["Wednesday"],
+        [11]
+      ],
+       [
+        ["Friday"],
+        [21]
+      ],
+     [
+        ["Tuesday"],
+        [15]
+      ],
+       [
+        ["Thursday"],
+        [17]
+      ],
+       [
+        ["Saturday"],
+        [15]
+      ]
+    ],  
     "days": [
        [
         ["Monday-Wednesday-Friday"],
@@ -39,6 +91,32 @@
   {
     "id": 3,
     "class":  "pregnant",
+    "size":  [
+       [
+        ["Monday"],
+        [25]
+      ],
+       [
+        ["Wednesday"],
+        [15]
+      ],
+       [
+        ["Friday"],
+        [17]
+      ],
+     [
+        ["Tuesday"],
+        [16]
+      ],
+       [
+        ["Thursday"],
+        [7]
+      ],
+       [
+        ["Saturday"],
+        [12]
+      ]
+    ],
     "days": [
        [
         ["Monday-Wednesday-Friday"],
@@ -57,6 +135,32 @@
   {
     "id": 4,
     "class":  "Adults and kids",
+    "size":  [
+       [
+        ["Monday"],
+        [11]
+      ],
+       [
+        ["Wednesday"],
+        [12]
+      ],
+       [
+        ["Friday"],
+        [25]
+      ],
+     [
+        ["Tuesday"],
+        [18]
+      ],
+       [
+        ["Thursday"],
+        [23]
+      ],
+       [
+        ["Saturday"],
+        [28]
+      ]
+    ],
     "days": [
        [
         ["Monday-Wednesday-Friday"],
@@ -75,6 +179,32 @@
   {
      "id": 5,
      "class":  "outside",
+    "size":  [
+       [
+        ["Monday"],
+        [25]
+      ],
+       [
+        ["Wednesday"],
+        [15]
+      ],
+       [
+        ["Friday"],
+        [25]
+      ],
+     [
+        ["Tuesday"],
+        [8]
+      ],
+       [
+        ["Thursday"],
+        [9]
+      ],
+       [
+        ["Saturday"],
+        [30]
+      ]
+    ],
      "days": [
        [
         ["Monday-Wednesday-Friday"],
@@ -93,6 +223,32 @@
   {
     "id": 6,
     "class":  "private",
+    "size":  [
+       [
+        ["Monday"],
+        [13]
+      ],
+       [
+        ["Wednesday"],
+        [15]
+      ],
+       [
+        ["Friday"],
+        [21]
+      ],
+     [
+        ["Tuesday"],
+        [12]
+      ],
+       [
+        ["Thursday"],
+        [15]
+      ],
+       [
+        ["Saturday"],
+        [25]
+      ]
+    ],
     "days": [
        [
         ["Monday-Wednesday"],
@@ -111,7 +267,33 @@
   {
     "id": 7,
     "class":  "travel for groups",
-    "days": [
+    "size":  [
+       [
+        ["Monday"],
+        [8]
+      ],
+       [
+        ["Wednesday"],
+        [18]
+      ],
+       [
+        ["Friday"],
+        [25]
+      ],
+     [
+        ["Tuesday"],
+        [15]
+      ],
+       [
+        ["Thursday"],
+        [20]
+      ],
+       [
+        ["Saturday"],
+        [10]
+      ]
+    ],
+   "days": [
        [
         ["Monday-Wednesday-Friday"],
         ["5pm-6pm"]

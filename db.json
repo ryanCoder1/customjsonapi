@@ -3,7 +3,7 @@
     {
        "id": 1,
        "class":  "Men and Women",
-     "size":  [
+     "size":  
         {
         "Mon": "Start of the week so everyone wants a good start",
        
@@ -18,8 +18,8 @@
         "Sat": "Busy so get there early",
        
         "Sun": "No Classes"
-        }
-    ],
+        },
+    
         "days": [
          [
           ["Monday-Wednesday-Friday"],
@@ -38,7 +38,7 @@
     {
     "id": 2,
     "class":  "elderly",
- "size":  [
+      "size":  
         {
         "Mon": "Start of the week so everyone wants a good start",
        
@@ -53,8 +53,7 @@
         "Sat": "Busy so get there early",
        
         "Sun": "No Classes"
-        }
-    ],
+        },
     "days": [
        [
         ["Monday-Wednesday-Friday"],
@@ -73,7 +72,7 @@
   {
     "id": 3,
     "class":  "pregnant",
- "size":  [
+      "size":  
         {
         "Mon": "Start of the week so everyone wants a good start",
        
@@ -88,8 +87,7 @@
         "Sat": "Busy so get there early",
        
         "Sun": "No Classes"
-        }
-    ],
+        },
     "days": [
        [
         ["Monday-Wednesday-Friday"],
@@ -108,7 +106,7 @@
   {
     "id": 4,
     "class":  "Adults and kids",
-    "size":  [
+        "size":  
         {
         "Mon": "Start of the week so everyone wants a good start",
        
@@ -123,8 +121,8 @@
         "Sat": "Busy so get there early",
        
         "Sun": "No Classes"
-        }
-    ],
+        },
+  
     "days": [
        [
         ["Monday-Wednesday-Friday"],
@@ -143,7 +141,7 @@
   {
      "id": 5,
      "class":  "outside",
-    "size":  [
+        "size":  
         {
         "Mon": "Start of the week so everyone wants a good start",
        
@@ -158,8 +156,7 @@
         "Sat": "Busy so get there early",
        
         "Sun": "No Classes"
-        }
-    ],
+        },
      "days": [
        [
         ["Monday-Wednesday-Friday"],
@@ -178,7 +175,7 @@
   {
     "id": 6,
     "class":  "private",
-   "size":  [
+       "size":  
         {
         "Mon": "Start of the week so everyone wants a good start",
        
@@ -193,8 +190,7 @@
         "Sat": "Busy so get there early",
        
         "Sun": "No Classes"
-        }
-    ],
+        },
     "days": [
        [
         ["Monday-Wednesday"],
@@ -213,7 +209,7 @@
   {
     "id": 7,
     "class":  "travel for groups",
-       "size":  [
+            "size":  
         {
         "Mon": "Start of the week so everyone wants a good start",
        
@@ -228,8 +224,7 @@
         "Sat": "Busy so get there early",
        
         "Sun": "No Classes"
-        }
-    ],
+        },
    "days": [
        [
         ["Monday-Wednesday-Friday"],

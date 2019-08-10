@@ -5,29 +5,33 @@
        "class":  "Men and Women",
       "size":  [
        [
-        ["Monday"],
-        [20]
+        ["Mon"],
+        ["Start of the week so everyone wants a good start"]
       ],
        [
-        ["Wednesday"],
-        [18]
+        ["Wed"],
+        ["Hump day so different every week"]
       ],
        [
-        ["Friday"],
-        [22]
+        ["Fri"],
+        ["Could be busy, depending on plans"]
       ],
      [
-        ["Tuesday"],
-        [13]
+        ["Tue"],
+        ["Light Class, not busy at all"]
       ],
        [
-        ["Thursday"],
-        [20]
+        ["Thu"],
+        ["Light class, not busy at all"]
       ],
        [
-        ["Saturday"],
-        [30]
-      ]
+        ["Sat"],
+        ["Busy so get there early"]
+      ],
+       [
+        ["Sun"],
+        ["No Classes"]
+      ], 
     ],
         "days": [
          [
@@ -49,30 +53,34 @@
     "class":  "elderly",
     "size":  [
        [
-        ["Monday"],
-        [1]
+        ["Mon"],
+        ["Start of the week so everyone wants a good start"]
       ],
        [
-        ["Wednesday"],
-        [11]
+        ["Wed"],
+        ["Hump day so different every week"]
       ],
        [
-        ["Friday"],
-        [21]
+        ["Fri"],
+        ["Could be busy, depending on plans"]
       ],
      [
-        ["Tuesday"],
-        [15]
+        ["Tue"],
+        ["Light Class, not busy at all"]
       ],
        [
-        ["Thursday"],
-        [17]
+        ["Thu"],
+        ["Light class, not busy at all"]
       ],
        [
-        ["Saturday"],
-        [15]
-      ]
-    ],  
+        ["Sat"],
+        ["Busy so get there early"]
+      ],
+       [
+        ["Sun"],
+        ["No Classes"]
+      ], 
+    ],
     "days": [
        [
         ["Monday-Wednesday-Friday"],
@@ -93,29 +101,33 @@
     "class":  "pregnant",
     "size":  [
        [
-        ["Monday"],
-        [25]
+        ["Mon"],
+        ["Start of the week so everyone wants a good start"]
       ],
        [
-        ["Wednesday"],
-        [15]
+        ["Wed"],
+        ["Hump day so different every week"]
       ],
        [
-        ["Friday"],
-        [17]
+        ["Fri"],
+        ["Could be busy, depending on plans"]
       ],
      [
-        ["Tuesday"],
-        [16]
+        ["Tue"],
+        ["Light Class, not busy at all"]
       ],
        [
-        ["Thursday"],
-        [7]
+        ["Thu"],
+        ["Light class, not busy at all"]
       ],
        [
-        ["Saturday"],
-        [12]
-      ]
+        ["Sat"],
+        ["Busy so get there early"]
+      ],
+       [
+        ["Sun"],
+        ["No Classes"]
+      ], 
     ],
     "days": [
        [
@@ -137,29 +149,33 @@
     "class":  "Adults and kids",
     "size":  [
        [
-        ["Monday"],
-        [11]
+        ["Mon"],
+        ["Start of the week so everyone wants a good start"]
       ],
        [
-        ["Wednesday"],
-        [12]
+        ["Wed"],
+        ["Hump day so different every week"]
       ],
        [
-        ["Friday"],
-        [25]
+        ["Fri"],
+        ["Could be busy, depending on plans"]
       ],
      [
-        ["Tuesday"],
-        [18]
+        ["Tue"],
+        ["Light Class, not busy at all"]
       ],
        [
-        ["Thursday"],
-        [23]
+        ["Thu"],
+        ["Light class, not busy at all"]
       ],
        [
-        ["Saturday"],
-        [28]
-      ]
+        ["Sat"],
+        ["Busy so get there early"]
+      ],
+       [
+        ["Sun"],
+        ["No Classes"]
+      ], 
     ],
     "days": [
        [
@@ -179,31 +195,35 @@
   {
      "id": 5,
      "class":  "outside",
-    "size":  [
+     "size":  [
        [
-        ["Monday"],
-        [25]
+        ["Mon"],
+        ["Start of the week so everyone wants a good start"]
       ],
        [
-        ["Wednesday"],
-        [15]
+        ["Wed"],
+        ["Hump day so different every week"]
       ],
        [
-        ["Friday"],
-        [25]
+        ["Fri"],
+        ["Could be busy, depending on plans"]
       ],
      [
-        ["Tuesday"],
-        [8]
+        ["Tue"],
+        ["Light Class, not busy at all"]
       ],
        [
-        ["Thursday"],
-        [9]
+        ["Thu"],
+        ["Light class, not busy at all"]
       ],
        [
-        ["Saturday"],
-        [30]
-      ]
+        ["Sat"],
+        ["Busy so get there early"]
+      ],
+       [
+        ["Sun"],
+        ["No Classes"]
+      ], 
     ],
      "days": [
        [
@@ -223,31 +243,35 @@
   {
     "id": 6,
     "class":  "private",
-    "size":  [
+     "size":  [
        [
-        ["Monday"],
-        [13]
+        ["Mon"],
+        ["Start of the week so everyone wants a good start"]
       ],
        [
-        ["Wednesday"],
-        [15]
+        ["Wed"],
+        ["Hump day so different every week"]
       ],
        [
-        ["Friday"],
-        [21]
+        ["Fri"],
+        ["Could be busy, depending on plans"]
       ],
      [
-        ["Tuesday"],
-        [12]
+        ["Tue"],
+        ["Light Class, not busy at all"]
       ],
        [
-        ["Thursday"],
-        [15]
+        ["Thu"],
+        ["Light class, not busy at all"]
       ],
        [
-        ["Saturday"],
-        [25]
-      ]
+        ["Sat"],
+        ["Busy so get there early"]
+      ],
+       [
+        ["Sun"],
+        ["No Classes"]
+      ], 
     ],
     "days": [
        [
@@ -267,31 +291,35 @@
   {
     "id": 7,
     "class":  "travel for groups",
-    "size":  [
+     "size":  [
        [
-        ["Monday"],
-        [8]
+        ["Mon"],
+        ["Start of the week so everyone wants a good start"]
       ],
        [
-        ["Wednesday"],
-        [18]
+        ["Wed"],
+        ["Hump day so different every week"]
       ],
        [
-        ["Friday"],
-        [25]
+        ["Fri"],
+        ["Could be busy, depending on plans"]
       ],
      [
-        ["Tuesday"],
-        [15]
+        ["Tue"],
+        ["Light Class, not busy at all"]
       ],
        [
-        ["Thursday"],
-        [20]
+        ["Thu"],
+        ["Light class, not busy at all"]
       ],
        [
-        ["Saturday"],
-        [10]
-      ]
+        ["Sat"],
+        ["Busy so get there early"]
+      ],
+       [
+        ["Sun"],
+        ["No Classes"]
+      ], 
     ],
    "days": [
        [
